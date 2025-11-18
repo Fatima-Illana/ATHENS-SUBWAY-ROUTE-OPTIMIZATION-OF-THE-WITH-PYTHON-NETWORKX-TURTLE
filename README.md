@@ -1,35 +1,36 @@
-# Optimización de Rutas en el Metro de Atenas usando el algoritmo A*, NetworkX y Turtle
+# ATHENS SUBWAY ROUTE OPTIMIZATION USING A* ALGORITHM, NETWORKX AND TURTLE
 
-Este repositorio contiene un proyecto de simulación de rutas en el metro de Atenas, donde se implementa el algoritmo A* para hallar el camino más corto entre estaciones. Utilizamos Python y las librerías `NetworkX` para el manejo de grafos y `Turtle` para visualizar las rutas.
+This repository contains a project simulating routes in the Athens subway, where the A* algorithm is implemented to find the shortest path between stations. We use Python and the libraries `NetworkX` for graph management and `Turtle` for route visualization.
 
-## Vista Previa del Proyecto
+## Project Preview
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Z6Y2l5cjlvNWd2b3Zvc2NweTdzeTJlZTd1ejc4YXM3aGdycDQwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92MUpUDTCIKsdNUrBZ/giphy.gif" alt="Vista Previa del Proyecto">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Z6Y2l5cjlvNWd2b3Zvc2NweTdzeTJlZTd1ejc4YXM3aGdycDQwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/92MUpUDTCIKsdNUrBZ/giphy.gif" alt="Project Preview">
 </div>
 
-## Descripción
+## Description
 
-El proyecto implementa el algoritmo de búsqueda A* para optimizar rutas en la red del metro de Atenas. Usando `NetworkX`, se modela la red de estaciones y sus distancias como un grafo, donde el algoritmo A* calcula el camino óptimo entre una estación origen y una de destino.
+The project implements the A* search algorithm to optimize routes in the Athens subway network. Using `NetworkX`, the station network and distances are modeled as a graph, where the A* algorithm calculates the optimal path between a starting station and a destination.
 
-La interfaz gráfica utiliza `Turtle` para mostrar visualmente el recorrido, resaltando el trayecto con sus respectivas estaciones y transbordos.
+The graphical interface uses `Turtle` to visually display the route, highlighting the path with its respective stations and transfers.
 
-## Archivos
+## Files
 
-- MetroAtenas.py: Código que implementa la interfaz y el algoritmo A*.
-- MetroAtenas.gif: Foto del mapa del metro de Atenas.
-- metro_Atenas.xlsx: Fichero Excel con las distancias entre estaciones.
+- **MetroAtenas.py**: Code implementing the interface and the A* algorithm.
+- **MetroAtenas.gif**: Image of the Athens subway map.
+- **metro_Atenas.xlsx**: Excel file containing distances between stations.
 
-## Ejecución
-Descargar archivos y almacenárlos en una misma carpeta. En caso contrario, modificar las rutas de archivo en el código principal y ejecutar. Una vez finalizada la ejecución, para salir de la interfaz, pinchar en cualquier parte de la pantalla. 
+## Execution
 
-## Requisitos
+Download all files and store them in the same folder. Otherwise, modify the file paths in the main code and run it. Once execution is complete, click anywhere on the screen to exit the interface.
 
-- Python 3.7 o superior
-- Networkx
+## Requirements
+
+- Python 3.7 or higher
+- NetworkX
 - Turtle
 
-## Autores
+## Authors
 
 - [Fátima Fuchun Illana Guerra](https://github.com/Fatima-Illana)
 - [Cristina Fernández Gómez](https://github.com/crisfernandez)
