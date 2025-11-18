@@ -19,6 +19,7 @@ The graphical interface uses `Turtle` to visually display the route, highlightin
 - **MetroAtenas.py**: Code implementing the interface and the A* algorithm.
 - **MetroAtenas.gif**: Image of the Athens subway map.
 - **metro_Atenas.xlsx**: Excel file containing distances between stations.
+- **CapturasFuncionamiento Folder**: Contains screenshots that shows the interface working.
 
 ## Execution
 
