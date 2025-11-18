@@ -21,6 +21,8 @@ The graphical interface uses `Turtle` to visually display the route, highlightin
 - **metro_Atenas.xlsx**: Excel file containing distances between stations.
 - **CapturasFuncionamiento Folder**: Contains screenshots that shows the interface working.
 
+The contents are only available in spanish.
+
 ## Execution
 
 Download all files and store them in the same folder. Otherwise, modify the file paths in the main code and run it. Once execution is complete, click anywhere on the screen to exit the interface.
