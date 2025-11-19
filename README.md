@@ -21,12 +21,10 @@ The graphical interface uses `Turtle` to visually display the route, highlightin
 🏛️ ATHENS SUBWAY ROUTE OPTIMIZATION USING A* ALGORITHM, NETWORKX AND TURTLE
 ├── 📁 CapturasFuncionamiento
 │       → Contains screenshots that shows the interface working.
-├── 🐍 MetroAtenas.py
-│       → Code implementing the interface and the A* algorithm.
 ├── 🖼️ MetroAtenas.gif
 │       → Image of the Athens subway map.
-├── 🐍 GraficasAnalisis.py
-│       → Python script that analyzes the data and generates the final charts.
+├── 🐍 MetroAtenas.py
+│       → Code implementing the interface and the A* algorithm.
 ├── 📄 README.md
 │       → Documentation of the project.
 └── 🟩 metro_Atenas.xlsx
